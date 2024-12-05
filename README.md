@@ -73,10 +73,17 @@ The project provides end-to-end functionality, from synthetic data generation to
 ---
 
 ## Acknowledgments  
-This project explores the integration of 5G technologies and machine learning techniques, highlighting the potential for automated slice classification and resource optimization.  
+This project explores the integration of 5G technologies and machine learning techniques, highlighting the potential for automated slice classification and resource optimization.
+We would like to extend our heartfelt gratitude to **Bhupendra Sir** for his invaluable guidance and support throughout this project. His insights and expertise were instrumental in helping us understand and implement the concepts of 5G network slicing effectively. This project was part of our coursework in **5G Communication and Network**, and we are grateful for the opportunity to delve into this cutting-edge field.
 
 ---
 
 ## Author  
-**Pradyot**  
-*Feel free to connect with me for feedback or collaborations!*  
+This project was collaboratively developed by:
+
+- **Pradyot Soni**  
+- **Ishita Agarwal**  
+- **Harsh Sharma**  
+- **Harsh Taunk**  
+- **Ved Vekhande**
+We worked as a team to conceptualize, develop, and present this project, combining our unique skills and perspectives to achieve our objectives.
