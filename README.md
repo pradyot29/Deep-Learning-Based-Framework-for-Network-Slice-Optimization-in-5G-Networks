@@ -62,7 +62,7 @@ The project provides end-to-end functionality, from synthetic data generation to
 
 ## Example Plots  
 ### Training Performance  
-![Accuracy and Loss Example](#) *(Replace with actual image link)*  
+![Accuracy and Loss Example](#)(https://github.com/pradyot29/Deep-Learning-Based-Framework-for-Network-Slice-Optimization-in-5G-Networks/blob/main/accuracy-loss.jpg)
 
 ### Confusion Matrix  
 ![Confusion Matrix Example](#) *(Replace with actual image link)*  
