@@ -65,10 +65,10 @@ The project provides end-to-end functionality, from synthetic data generation to
 ![Accuracy and Loss Example](https://github.com/pradyot29/Deep-Learning-Based-Framework-for-Network-Slice-Optimization-in-5G-Networks/blob/main/accuracy-loss.jpg)
 
 ### Confusion Matrix  
-![Confusion Matrix Example](#) *(Replace with actual image link)*  
+![Confusion Matrix Example]([Replace with actual image link](https://github.com/pradyot29/Deep-Learning-Based-Framework-for-Network-Slice-Optimization-in-5G-Networks/blob/main/confusion-matrix.jpg))
 
 ### Resource Utilization Heatmap  
-![Heatmap Example](#) *(Replace with actual image link)*  
+![Heatmap Example](https://github.com/pradyot29/Deep-Learning-Based-Framework-for-Network-Slice-Optimization-in-5G-Networks/blob/main/heatmap.jpg)
 
 ---
 
