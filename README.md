@@ -78,7 +78,7 @@ We would like to extend our heartfelt gratitude to **Bhupendra Sir** for his inv
 
 ---
 
-## Author  
+## Comtributors
 This project was collaboratively developed by:
 
 - **Pradyot Soni**  
